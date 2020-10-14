@@ -1,0 +1,6 @@
+Pytania oraz wszystkie cztery odpowiedzi naleøy umieszczaÊ w osobnych linijkach wed≥ug schematu:
+Pytanie
+Poprawna odpowiedü
+B≥Ídna odpowiedü1
+B≥Ídna odpowiedü2
+B≥Ídna odpowiedü3
